@@ -1,2 +1,0 @@
-# Foo-Repo
-Foo Repo
